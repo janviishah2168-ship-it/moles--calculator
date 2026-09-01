@@ -1,0 +1,17 @@
+# 🧪 Moles Calculator
+
+My first chemistry-based programming project while learning C as a Civil Engineering student. 🏗️💻
+
+## Formula
+
+**Moles = Given Mass / Molar Mass**
+
+## Example
+
+If the molar mass is 18 g/mol and the given mass is 36 g:
+
+**Moles = 36 / 18 = 2 mol**
+
+## Language
+
+- C
